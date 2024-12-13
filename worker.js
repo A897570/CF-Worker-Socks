@@ -1,7 +1,7 @@
 import { connect } from 'cloudflare:sockets';
 
 // 定义密码，用于验证客户端
-let passwd = '123456';
+let passwd = '286c16fd-457b-46a4-878a-fb1b47a787d9';
 
 export default {
 
